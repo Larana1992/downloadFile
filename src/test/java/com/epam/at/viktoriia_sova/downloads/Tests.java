@@ -1,6 +1,6 @@
 package com.epam.at.viktoriia_sova.downloads;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 import java.net.MalformedURLException;
 
